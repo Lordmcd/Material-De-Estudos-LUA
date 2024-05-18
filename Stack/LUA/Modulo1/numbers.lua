@@ -1,0 +1,5 @@
+--  Operadores aritimeticos 
+-- + (addition) 
+-- - (subtraction)
+-- * (multiplication)
+-- / (division)
